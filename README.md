@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 
 - 📱 **Responsive Portfolio Website**  
   - HTML, Tailwind CSS, JavaScript  
-  - [View Repository](#)
+  - [View Repository](https;//github.com/IamPrachu7/Portfolio)
 
 - 🌐 **Sanitary Store Management System**  
   - Django, SQLite, Bootstrap  
